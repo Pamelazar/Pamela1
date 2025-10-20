@@ -1,0 +1,33 @@
+*{margin: 0px; padding: 0px; text-align: center;}
+.padre{
+    background-color: rgb(247, 33, 150);
+    padding: 5px;
+    margin: 5px;
+    height: 700px;
+}
+.titulo{
+    background-color: rgb(107, 248, 26);
+    margin: 5px;
+    height: 15%;
+}
+.titulo li{
+    display: inline;
+    text-decoration: none;
+}
+.contenido{
+    background-color: rgb(107, 248, 26);
+    margin: 5px;
+    height: 70%;
+}
+.contenido img{
+    width: 300px;
+    height: 300px;
+}
+.pie{
+    background-color:  rgb(107, 248, 26);
+    margin: 5px;
+    height: 10%;
+}
+.pie h5{
+    padding: 30px;
+}
